@@ -16,7 +16,7 @@ you can contact me on tumblr, bluesky or discord. my dms are always open.
 
 ### ✧ technologies i use ✧
 ![](https://img.shields.io/badge/java-gray?logo=gradle&logoColor=white)
-![](https://img.shields.io/badge/nodejs-gray?logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/node.js-gray?logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/c++-gray?logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/python-gray?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/bash-gray?logo=gnubash&logoColor=white)
