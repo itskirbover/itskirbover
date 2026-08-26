@@ -1,5 +1,5 @@
 # hello 👋
-i'm kirbo, a software engineer / cybersecurity specialist from Georgia. currently working on [Patron](https://github.com/itskirbover/patron) and a few other projects.
+i'm kirbo, a student and aspiring software engineer / cybersecurity specialist from Georgia. currently working on [Patron](https://github.com/itskirbover/patron) and a few other projects.
 
 ### socials
 you can contact me on tumblr, bluesky or discord.
