@@ -5,9 +5,9 @@ i'm kirbo. currently working on [Patron](https://github.com/itskirbover/patron) 
 ### ✧ socials ✧
 you can contact me on tumblr, bluesky or discord. my dms are always open.
 
-![](https://img.shields.io/badge/tumblr-@itskirbover-white?style=flat&logo=tumblr&logoColor=white)
-![](https://img.shields.io/badge/bluesky-@itskirbover-white?style=flat&logo=bluesky&logoColor=white)
-![](https://img.shields.io/badge/discord-@itskirbover-white?style=flat&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/tumblr-itskirbover-white?style=flat&logo=tumblr&logoColor=white)
+![](https://img.shields.io/badge/bluesky-itskirbover.bsky.social-white?style=flat&logo=bluesky&logoColor=white)
+![](https://img.shields.io/badge/discord-itskirbover-white?style=flat&logo=discord&logoColor=white)
 
 ### ✧ tools i use ✧
 ![](https://img.shields.io/badge/os-arch%20(btw)-white?style=flat&logo=archlinux&logoColor=white)
