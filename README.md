@@ -6,14 +6,14 @@ currently working on [Patron](https://github.com/itskirbover/patron) and a few o
 ### ✧ socials ✧
 you can contact me on tumblr, instagram or discord. my dms are always open.
 
-![](https://img.shields.io/badge/tumblr-itskirbover-white?style=flat&logo=tumblr&logoColor=white&color=262626&labelColor=262626)
-![](https://img.shields.io/badge/instagram-itskirbover-white?style=flat&logo=instagram&logoColor=white&color=262626&labelColor=262626)
-![](https://img.shields.io/badge/discord-itskirbover-white?style=flat&logo=discord&logoColor=white&color=262626&labelColor=262626)
+![](https://img.shields.io/badge/itskirbover-white?style=flat&logo=tumblr&logoColor=white&color=262626&labelColor=262626)
+![](https://img.shields.io/badge/itskirbover-white?style=flat&logo=instagram&logoColor=white&color=262626&labelColor=262626)
+![](https://img.shields.io/badge/itskirbover-white?style=flat&logo=discord&logoColor=white&color=262626&labelColor=262626)
 
 ### ✧ tools i use ✧
-![](https://img.shields.io/badge/os-arch%20(btw)-white?style=flat&logo=archlinux&logoColor=white&color=262626&labelColor=262626)
-![](https://img.shields.io/badge/editor-lazyvim-white?style=flat&logo=vim&logoColor=white&color=262626&labelColor=262626)
-![](https://img.shields.io/badge/cpu%2Fgpu-amd-white?style=flat&logo=amd&logoColor=white&color=262626&labelColor=262626)
+![](https://img.shields.io/badge/arch%20(btw)-white?style=flat&logo=archlinux&logoColor=white&color=262626&labelColor=262626)
+![](https://img.shields.io/badge/lazyvim-white?style=flat&logo=vim&logoColor=white&color=262626&labelColor=262626)
+![](https://img.shields.io/badge/amd-white?style=flat&logo=amd&logoColor=white&color=262626&labelColor=262626)
 
 ### ✧ technologies i use ✧
 ![](https://img.shields.io/badge/java-gray?logo=gradle&logoColor=white&color=262626&labelColor=262626)
