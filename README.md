@@ -1,9 +1,9 @@
 ![](./greeting.png)
 > _"I hope they'll come and say hi again soon, too."_
 
-i'm kirbo. georgian student, long-time linux user, learning cybersecurity. currently working on [Patron](https://github.com/itskirbover/patron) and a few other projects.
+i'm kirbo. georgian student, long-time linux user, learning cybersecurity. currently working on [quark](https://github.com/itskirbover/quark) and a few other projects.
 
-i do mostly web security. programming and reverse engineering sometimes.
+i study mostly web security and programming. reverse engineering sometimes (check out my [crackme guides](https://github.com/itskirbover/crackmes).
 
 ### ✧ socials ✧
 you can contact me on tumblr, instagram or discord. my dms are always open.
