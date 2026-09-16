@@ -3,7 +3,7 @@
 
 i'm kirbo. georgian student, long-time linux user, learning cybersecurity. currently working on [Patron](https://github.com/itskirbover/patron) and a few other projects.
 
-i do web security and reverse engineering sometimes.
+i do mostly web security. programming and reverse engineering sometimes.
 
 ### ✧ socials ✧
 you can contact me on tumblr, instagram or discord. my dms are always open.
